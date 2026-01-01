@@ -9,7 +9,7 @@
 
 Homebrew is the easiest and most flexible way to install the UNIX tools Apple
 didn't include with macOS. It can also install software not packaged for your
-Linux distribution without requiring `sudo`.
+Linux distribution without requiring `sudo`。
 
 ## TERMINOLOGY
 
@@ -24,7 +24,7 @@ Linux distribution without requiring `sudo`.
 
 **prefix**
 
-: path in which Homebrew is installed, e.g. `/opt/homebrew` or
+: path in which Homebrew is installed, e.g. `/opt/homebrew` 或
   `/home/linuxbrew/.linuxbrew`
 
 **keg**
